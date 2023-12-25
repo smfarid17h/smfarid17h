@@ -3,8 +3,7 @@
 ### Hi there 👋, I'm SM Farid
 #### Web Design | WordPress | e-Commerce | Elementor | Crocoblock
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
+I’m a Front End Web developer & WordPress Specialist who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
 Skills: WordPress/ e-Commerce /Elementor /Crocoblock /Jet-engine / HTML / CSS / Javascript / PHP/
 
 - 🔭 I’m currently working on upwork 
