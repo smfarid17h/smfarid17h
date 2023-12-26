@@ -4,7 +4,7 @@
 #### Web Design | WordPress | e-Commerce | Elementor | Crocoblock
 
 
-I’m a Web Design | WordPress | e-Commerce | Elementor & Crocoblock Expert. who is passionate about making error-free websites with 100% client satisfaction. I love to solve real-world problems. I am strategic, and goal-oriented, and always work with an end goal in mind.
+Hello, I'm Farid, an expert in Dynamic WordPress Website | Crocoblock | Web Design | WordPress Website | Elementor Design with a focus on impeccable design and functionality. With over 3 years of professional experience, I thrive on taking responsibility for turning your vision into a compelling online presence.
 
 Skills: WordPress/e-Commerce/Elementor/Crocoblock/Jet-engine/HTML /CSS/Javascript/PHP/
 
